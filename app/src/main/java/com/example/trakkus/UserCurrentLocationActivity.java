@@ -1,4 +1,5 @@
-package com.example.trakkus; //
+//Amritpal Singh
+package com.example.trakkus; 
 
 import android.Manifest;
 import android.content.pm.PackageManager;
